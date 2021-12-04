@@ -32,9 +32,11 @@
 
 /* skill section */
 .about{
-    git
+    display: flex;
+    justify-content: space-between;
 }
 .prog{
-    float: right;
-    margin-top:-40px;
+   width: 40%;
+   margin-right: 0px;
+    
 }
