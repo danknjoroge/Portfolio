@@ -6,6 +6,18 @@ h1, h2, h3, h4, h5, h6{
     font-weight: bold;
     color: orange;
 }
+.navb>.dans>a{
+    color: white;
+    font-weight: bold;
+    font-size:50px;
+    margin-left: 50px;
+}
+.navb>.dans>.link>.ms-auto>a{
+    color: black;
+    font-weight: bold;
+    font-size:25px;
+    margin-left: 15px;
+}
 
 
 .img{
@@ -13,6 +25,12 @@ h1, h2, h3, h4, h5, h6{
 }
 .name{
     margin-top: 180px;
+}
+.nav-link{
+    color: black;
+}
+.nav-link:hover{
+    background: orange;
 }
 
 .projects{
@@ -29,6 +47,7 @@ h1, h2, h3, h4, h5, h6{
     margin-top:10px;
     width:350px;
     box-shadow: 1px 5px rgb(177, 177, 238);  
+    
 
 }
 .row{
@@ -44,9 +63,10 @@ h1, h2, h3, h4, h5, h6{
     display: flex;
     justify-content: space-between;
 }
-h4{
+h3,h4{
     margin-top:60px;
 }
+
 .prog{
    width: 40%;
    margin-right: 0px;
@@ -54,16 +74,15 @@ h4{
 }
 .fb{
     font-size: 50px;
-    color: orange;
     
 }
 .ln{
     font-size: 50px;
-    color: orange;
+    
 }
 .gt{
     font-size: 50px;
-    color: orange;
+    
 }
 .gt, .fb, .ln{
     margin-right: 20px;
@@ -71,8 +90,14 @@ h4{
 .footer {
     float: right;
 }
+.foote .footer h5{
+    display: inline;
+    font-size:25px;
+    color: black;
+    margin:20px;
+}
 .foote>h5{
-    color: orange !important;
+    color: black;
     font-size:25px;
     margin-top: 10px;
 }
