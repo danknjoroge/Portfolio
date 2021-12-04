@@ -10,8 +10,8 @@
 }
 
 .projects{
-    background-color: antiquewhite;
-    height: 800px;
+    
+   
     align-items: center;
     
 }
@@ -20,18 +20,21 @@
     border: none;
     border-radius:10px;
     height: 400px;
-    margin-top:100px;
+    margin-top:10px;
     width:350px;
     box-shadow: 1px 5px rgb(177, 177, 238);  
 
 }
 .row{
-    
+    margin-left: 30px;
 }
 
 
-@media (min-width: 768px){
-    .skills{
-        width:100%;
-    }
+/* skill section */
+.about{
+    git
+}
+.prog{
+    float: right;
+    margin-top:-40px;
 }
