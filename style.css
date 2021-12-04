@@ -31,6 +31,9 @@
 
 
 /* skill section */
+.abt{
+    height:500px;
+}
 .about{
     display: flex;
     justify-content: space-between;
@@ -42,5 +45,25 @@
 }
 .fb{
     font-size: 50px;
-    color: black;
+    color: orange;
+    
+}
+.ln{
+    font-size: 50px;
+    color: orange;
+}
+.gt{
+    font-size: 50px;
+    color: orange;
+}
+.gt, .fb, .ln{
+    margin-right: 20px;
+}
+.footer {
+    float: right;
+}
+.foote>h5{
+    color: orange !important;
+    font-size:25px;
+    margin-top: 10px;
 }
