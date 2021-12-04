@@ -1,6 +1,12 @@
-/* .navbar{
-    height: 90px;
-} */
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 17px;
+}
+h1, h2, h3, h4, h5, h6{
+    font-weight: bold;
+    color: orange;
+}
+
 
 .img{
     height: 700px;
@@ -32,11 +38,14 @@
 
 /* skill section */
 .abt{
-    height:500px;
+    font-size:25px;
 }
 .about{
     display: flex;
     justify-content: space-between;
+}
+h4{
+    margin-top:60px;
 }
 .prog{
    width: 40%;

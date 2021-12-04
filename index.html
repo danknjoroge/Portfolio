@@ -15,17 +15,15 @@
 
 <body>
     <!-- Navigation bar -->
-    <nav class="navbar navbar-expand-lg navbar-dark bg-success">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-success p-4">
         <div class="container-fluid">
-            <a href="#" class="navbar-brand">Daniel Solutions</a>
-            <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navmenu">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navmenu">
+            <h4>Daniel's Portfolio</h4>
+          
+            <div class="navbar">
                 <div class="navbar-nav ms-auto">
-                    <a href="#" class="nav-item nav-link active">About Me</a>
-                    <a href="#" class="nav-item nav-link">Skills</a>
-                    <a href="#" class="nav-item nav-link">Get Intouch</a>
+                    <a href="#about" class="nav-item nav-link nav-a">About Me</a>
+                    <a href="#home" class="nav-item nav-link">Projects</a>
+                    <a href="#intouch" class="nav-item nav-link">Get Intouch</a>
                 </div>
             </div>
         </div>
@@ -33,7 +31,7 @@
     <!-- End of navigation bar -->
 
     <!-- Home page -->
-    <section class="bg-dark text-light p-5 text-center text-sm-start">
+    <section class="bg-dark text-light p-5 text-center text-sm-start" >
         <div class="container">
             <div class="d-md-flex justify-content-between">
                 <div>
@@ -42,7 +40,7 @@
                          Nostrum, fugit enim minus repudiandae nulla quam ratione <br> animi dignissimos
                           rerum eaque. Tempore magni totam adipisci <br> inventore iusto odio debitis
                            nobis nostrum!</p>
-                    <button class="btn btn-primary btn-lg">About Me</button>
+                    <button class="btn btn-warning btn-lg">About Me</button>
                 </div>
                 <img class="img" src="images/daniel-removebg-preview.png" alt="">
             </div>
@@ -51,7 +49,7 @@
     <!-- end of home page -->
 
     <!-- projects done page -->
-    <section class="projects bg-warning p-5">
+    <section class="projects  p-5" id="home">
         <div class="container">
             <h1>PROJECTS</h1>
             <p>
@@ -122,7 +120,7 @@
     </section>
 
     <!-- skills,about me-section -->
-    <section class="bg-success abt">
+    <section class="bg-dark text-white abt" id="about">
         
        <div class="p-5">
         <h1>ABOUT ME</h1>
@@ -156,8 +154,8 @@
                 <p> Recently as the world is moving to digita platform, 
                     so many activities are done online ans this therefore
                     calls arefor online presence. This result to unemlpoyment and since programming class
-                    jobs are employing quite a large pool of people decided therefore to use
-                    enhance my career in programming since I had the basics to ensure am 
+                    jobs are employing quite a large pool of people <em style="color:orange"> I decided therefore to use this opportunity
+                    enhance my career in programming</em> since I had the basics to ensure am 
                     relevant in the job market.
                 </p>
                 <p>
@@ -175,7 +173,7 @@
 
     <!-- footer section -->
     <footer class="container p-4 foote">
-        <div class="footer ">
+        <div class="footer " id="intouch">
             <i class="fab fa-facebook-square fb"></i>
             <i class="fab fa-linkedin ln"></i>
             <i class="fab fa-github-square gt"></i>
