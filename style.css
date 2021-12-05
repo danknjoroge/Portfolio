@@ -24,8 +24,9 @@ h1{
 .navb>.dans>.link{
     margin-right: 30px;
 }
-
-
+.lead{
+    font-size: 25px;
+}
 .img{
     height: 700px;
 }
@@ -37,7 +38,11 @@ h1{
 }
 .nav-link:hover{
     background: orange;
-    color: black;
+}
+.btn{
+    border-radius: 40px;
+    font-size:25px;
+    font-weight: bold;
 }
 
 .projects{
@@ -49,6 +54,9 @@ h1{
 }
 .projects>.proj>p{
     font-size: 30px;
+    font-style: italic;
+    padding: 5px 0px 0px 95px;
+    
 }
 .projects .proj h3{
     text-align: center;
@@ -60,6 +68,9 @@ h1{
 }
 .sp{
     color: black;
+}
+.spa{
+    color: orange;
 }
 
 .box{
@@ -79,8 +90,10 @@ h1{
 
 /* skill section */
 .abt{
-    font-size:25px;
-    
+    font-size:25px; 
+}
+.abot{
+    text-align:center;
 }
 .about{
     display: flex;
@@ -113,6 +126,10 @@ h3,h4{
 .footer {
     float: right;
 }
+.foote{
+    margin-right: 120px;
+   
+}
 .foote .footer h5{
     display: inline;
     font-size:25px;
@@ -123,4 +140,5 @@ h3,h4{
     color: black;
     font-size:25px;
     margin-top: 10px;
+    margin-left: 50px;
 }
