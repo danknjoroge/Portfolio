@@ -1,27 +1,20 @@
 ## Portfolio
 #### By Daniel Njoroge
 ## Description
-This is a landing page for my Portfolio.
-## Screenshot
-<img src="assets/images/letuce-eat-homepage.png" alt="">
-<img src="assets/images/letuce-eat-footer.png" alt="">
-
-
+This is a landing page for my Portfolio. It gives one a list of projects that I have worked on as well as my personal information. It also gives means of keeping in touch. 
 ## Setup/Installation Requirements
 * Clone the repository to your computer from 
      https://github.com/danknjoroge/Portfolio.git
-* Open the project using your preferred code editor.
-* Open the project using a web browser, preferably Google Chrome.
+* Open the project using your preferred code editor, prefferably Visual Studio code.
+* Open the project using a web browser of your choice, preferably Google Chrome or if you have installed Liveserver in Visual Studio code, you can go live from there.
 ## Known Bugs
-There are no known bugs
+There are no known bugs as per the time of publication. 
 ## Technologies Used
 HTML 
 CSS
 Bootstrap
 ## Support and contact details
-for any query or support reach me via.
+For any queries or support you can reach me via the following email address:
 * dank8505@gmail.com
 ### License
 This project is under [MIT](LICENSE).
-### Collaborators
-Daniel Njoroge
