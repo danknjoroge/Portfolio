@@ -7,10 +7,10 @@ h1, h3, h4, h5{
     color: orange;
 }
 h3,h4{
-    font-size: 35px;
+    font-size: 30px;
 }
 h1{
-    font-size: 35px;
+    font-size: 40px;
 }
 .navb>.dans>a{
     color: white;
@@ -21,17 +21,17 @@ h1{
 .navb>.dans>.link>.ms-auto>a{
     color: white;
     font-weight: bold;
-    font-size:25px;
+    font-size:20px;
     margin-left: 15px;
 }
 .navb>.dans>.link{
-    margin-right: 30px;
+    margin-right: 15px;
 }
 .lead{
-    font-size: 25px;
+    font-size: 20px;
 }
 .img{
-    height: 600px;
+    height: 500px;
 }
 .name{
     margin-top: 180px;
@@ -44,27 +44,24 @@ h1{
 }
 .btn{
     border-radius: 40px;
-    font-size:25px;
+    font-size:20px;
     font-weight: bold;
 }
-
 .projects{
     align-items: center;
- 
 }
 .projects .proj h1{
     text-align: center;
 }
 .projects>.proj>p{
-    font-size: 25px;
+    font-size: 20px;
     font-style: italic;
     padding: 5px 0px 0px 95px;
-    
 }
 .projects .proj h3{
     text-align: center;
     padding: 15px;
-    font-size: 35px;
+    font-size: 30px;
 }
 .projects .proj .row p{
     font-size:15px;
@@ -97,25 +94,21 @@ h1{
     justify-content: space-between;
 }
 h3,h4{
-    margin-top:60px;
+    margin-top:40px;
 }
 
 .prog{
    width: 40%;
    margin-right: 0px;
-    
 }
 .fb{
     font-size: 50px;
-    
 }
 .ln{
-    font-size: 50px;
-    
+    font-size: 50px;  
 }
 .gt{
-    font-size: 50px;
-    
+    font-size: 50px;  
 }
 .gt, .fb, .ln{
     margin-right: 20px;
@@ -125,11 +118,10 @@ h3,h4{
 }
 .foote{
     margin-right: 120px;
-   
 }
 .foote .footer h5{
     display: inline;
-    font-size:25px;
+    font-size:20px;
     color: orange;
     margin:20px;
 }
