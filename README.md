@@ -2,6 +2,10 @@
 #### By Daniel Njoroge
 ## Description
 This is a landing page for my Portfolio. It gives one a list of projects that I have worked on as well as my personal information. It also gives means of keeping in touch. 
+## Screenshot
+<img src="images/Screenshot from 2021-12-06 09-49-03.png" alt="">
+<img src="images/Screenshot from 2021-12-06 09-49-13.png" alt="">
+
 ## Setup/Installation Requirements
 * Clone the repository to your computer from 
      https://github.com/danknjoroge/Portfolio.git
